@@ -141,7 +141,6 @@ Alternativ kann über den seriellen Monitor (57600 Baud) kalibriert werden:
 
 Die Datei `hb-uni-sen-ec.xml` muss als Gerätebeschreibung in die CCU eingespielt werden.
 
-Bei Verwendung des [JP-HB-Devices Addon](https://github.com/jp112sdl/JP-HB-Devices-addon) kann die XML-Datei im Addon-Verzeichnis abgelegt werden.
 
 Device Model: **0xFC20**
 
