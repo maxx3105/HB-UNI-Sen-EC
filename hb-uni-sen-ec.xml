@@ -78,7 +78,7 @@
       </paramset>
       <paramset type="VALUES" id="HB-UNI-Sen-EC_values">
         <parameter id="TEMPERATURE" operations="read,event">
-          <logical type="float" min="-40.0" max="80.0" unit="\xb0C" />
+          <logical type="float" min="-40.0" max="80.0" unit="°C" />
           <physical type="integer" interface="command" value_id="TEMPERATURE">
             <event frame="MEASURE_EVENT" />
           </physical>
