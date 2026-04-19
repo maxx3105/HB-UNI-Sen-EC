@@ -65,7 +65,7 @@ Im Sketch `HB-UNI-Sen-EC.ino` anpassen:
 
 // Device-ID und Serial (muss unique sein!):
 { 0xFC, 0x20, 0x01 },   // Device ID
-"JPEC000001",            // Serial
+"HBEC000001",            // Serial
 ```
 
 ## CCU Einstellungen
